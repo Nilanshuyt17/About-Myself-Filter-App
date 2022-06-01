@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+}
+img {
+    width: 60%;
+    height: 40%;
+}
+.btn {
+    font-family: 'Smokum', cursive;
+    font-size: 66px;
+    margin: 0px;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px 3px black;
+}
+.heading {
+    width: 100%;
+}
